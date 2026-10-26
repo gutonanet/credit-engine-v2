@@ -1,0 +1,6 @@
+**/target/
+**/.next/
+**/node_modules/
+.env
+*.iml
+.idea/

@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/credit_engine_test
+    username: credit
+    password: credit
+  jpa:
+    hibernate:
+      ddl-auto: validate
+  flyway:
+    enabled: true
